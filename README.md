@@ -7,4 +7,4 @@ for more information:
   - University: Hcmc University of Foreign Languages - Information Technology
   - facebook: facebook.com/david15894
   - mobile: (84) 935059109
-  - email: minhhuy150894@gmail.com
+  - email: abc@davidng.xyz
